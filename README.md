@@ -18,4 +18,3 @@ I'm always open to connecting with like-minded individuals and collaborating on 
 
 Thanks for stopping by!
 
-[![Syed Uzair Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedUzairAlii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
